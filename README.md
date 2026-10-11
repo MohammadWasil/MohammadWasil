@@ -4,6 +4,11 @@
 
 Check out my Portfolio [Here](https://mohammadwasil.github.io/wasil-portfolio/)
 
+Blog post on several Machine Learning topics:
+- Combining 3DGS scenes with RTX LiDAR in Isaac Sim 6.0.0 [Here](https://forums.developer.nvidia.com/t/making-a-mesh-invisible-in-rendering-while-keeping-it-detectable-by-rtx-lidar-in-isaac-sim-6-0-0/383807)
+- Proximal Policy Optimization: Reinforcement Learning with Human Feedback [Here](https://mohammadwasil.github.io/wasil-portfolio/reinforcement_learning_with_human_feedback_ppo.html)
+- Grad-CAM: What Does a Self-Driving CNN See Under Domain Shift? [Here](https://mohammadwasil.github.io/wasil-portfolio/self_driving_car_domain_shift.html)
+
 <!--
 **MohammadWasil/MohammadWasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
