@@ -9,9 +9,9 @@ Blog post on several Machine Learning topics:
 - Proximal Policy Optimization: Reinforcement Learning with Human Feedback [Here](https://mohammadwasil.github.io/wasil-portfolio/reinforcement_learning_with_human_feedback_ppo.html)
 - Grad-CAM: What Does a Self-Driving CNN See Under Domain Shift? [Here](https://mohammadwasil.github.io/wasil-portfolio/self_driving_car_domain_shift.html)
 
-Videos:
-Robot Simulation on the streets with Neural Rendering (Gaussian Splats) and NVIDIA Isaac Sim: [YouTube](https://www.youtube.com/watch?v=OHWaJfTD4Gc)
-Self-Driving Car: [YouTube](https://www.youtube.com/watch?v=UmtLtpY1XBs)
+Videos: <Br>
+- Robot Simulation on the streets with Neural Rendering (Gaussian Splats) and NVIDIA Isaac Sim: [YouTube](https://www.youtube.com/watch?v=OHWaJfTD4Gc) <Br>
+- Self-Driving Car: [YouTube](https://www.youtube.com/watch?v=UmtLtpY1XBs) <Br>
 
 <!--
 **MohammadWasil/MohammadWasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
